@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "48798043",
+      "name": "lisianthus",
+      "font_class": "lisianthus",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "48798049",
+      "name": "dandelion",
+      "font_class": "dandelion",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "48798056",
+      "name": "herbaceous-peony",
+      "font_class": "herbaceous-peony",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "48798059",
+      "name": "tyrannosaurus-rex",
+      "font_class": "tyrannosaurus-rex",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "48798062",
+      "name": "axolotl",
+      "font_class": "axolotl",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "48798063",
+      "name": "secretary-bird",
+      "font_class": "secretary-bird",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "48798072",
+      "name": "binturong",
+      "font_class": "binturong",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "48798109",
+      "name": "marigold",
+      "font_class": "marigold",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "48798314",
+      "name": "bear",
+      "font_class": "bear",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "48798330",
+      "name": "dog",
+      "font_class": "dog",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "48798337",
+      "name": "panda",
+      "font_class": "panda",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "48798338",
+      "name": "pig",
+      "font_class": "pig",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    }
+  ]
+}

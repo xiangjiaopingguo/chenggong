@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1794892708581') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-lisianthus:before {
+  content: "\e610";
+}
+
+.icon-dandelion:before {
+  content: "\e611";
+}
+
+.icon-herbaceous-peony:before {
+  content: "\e612";
+}
+
+.icon-tyrannosaurus-rex:before {
+  content: "\e613";
+}
+
+.icon-axolotl:before {
+  content: "\e614";
+}
+
+.icon-secretary-bird:before {
+  content: "\e615";
+}
+
+.icon-binturong:before {
+  content: "\e616";
+}
+
+.icon-marigold:before {
+  content: "\e617";
+}
+
+.icon-bear:before {
+  content: "\e621";
+}
+
+.icon-dog:before {
+  content: "\e622";
+}
+
+.icon-panda:before {
+  content: "\e623";
+}
+
+.icon-pig:before {
+  content: "\e624";
+}
+
